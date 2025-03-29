@@ -6,6 +6,7 @@ public class Test
 	{
 		System.out.println("Sunday");
 		System.out.println("Monday");
+		System.out.println("Tuseday");
 		
 	}
 
